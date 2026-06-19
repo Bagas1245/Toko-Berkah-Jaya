@@ -1,2 +1,2 @@
 # Toko-Berkah-Jaya
-yang mau pake aja
+##Desktop App with NetBeans IDE

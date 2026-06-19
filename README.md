@@ -1,23 +1,7 @@
 # Toko-Berkah-Jaya
 #Desktop App with NetBeans IDE
 
-============================================================
 APLIKASI TOKO BERKAH JAYA
-============================================================
-
-DAFTAR FILE:
-------------
-1. pom.xml                          -> Konfigurasi Maven + dependency
-2. TokoBerkahJayaa.java             -> Main class (entry point)
-3. DatabaseConnection.java          -> Koneksi ke MySQL
-4. LoginFrame.java                  -> Form Login
-5. DashboardFrame.java              -> Menu Utama (sidebar + content)
-6. BarangFrame.java                 -> CRUD Data Barang
-7. CustomerFrame.java               -> CRUD Data Customer
-8. TransaksiFrame.java              -> Form Transaksi Penjualan
-9. LaporanFrame.java                -> Laporan + Export PDF/Excel
-10. PembayaranQRFrame.java          -> Pembayaran QR + Embedded Server
-11. database_toko_berkah_jayaa.sql  -> Struktur database + data awal
 
 DEPENDENCY (otomatis di-download Maven):
 ------------
@@ -28,9 +12,7 @@ DEPENDENCY (otomatis di-download Maven):
 - Apache POI OOXML 5.2.3 (Export .xlsx)
 - OpenPDF 1.3.30 (Export PDF)
 
-============================================================
 CARA SETUP:
-============================================================
 
 1. IMPORT DATABASE:
    - Buka phpMyAdmin atau MySQL CLI
@@ -52,15 +34,12 @@ CARA SETUP:
    - Klik Run Project di NetBeans
    - Atau jalankan: mvn exec:java
 
-============================================================
 AKUN LOGIN:
-============================================================
+
 Username: admin      Password: admin123     (Level: Admin)
 Username: kasir      Password: kasir123     (Level: Kasir)
 
-============================================================
 FITUR APLIKASI:
-============================================================
 
 1. LOGIN
    - Sistem autentikasi dengan tb_user

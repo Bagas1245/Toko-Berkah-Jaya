@@ -36,8 +36,8 @@ CARA SETUP:
 
 AKUN LOGIN:
 
-Username: admin      Password: admin123     (Level: Admin)
-Username: kasir      Password: kasir123     (Level: Kasir)
+- Username: admin      Password: admin123     (Level: Admin)
+- Username: kasir      Password: kasir123     (Level: Kasir)
 
 FITUR APLIKASI:
 

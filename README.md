@@ -76,9 +76,9 @@ FITUR APLIKASI:
    - Input nominal -> klik Bayar
    - Status aplikasi desktop otomatis terupdate
 
-============================================================
+
 CARA MENGGUNAKAN PEMBAYARAN QR:
-============================================================
+------------
 
 1. Pastikan komputer dan HP terhubung ke WiFi yang SAMA
 2. Klik "Generate QR Code"
@@ -88,9 +88,8 @@ CARA MENGGUNAKAN PEMBAYARAN QR:
 6. Klik "BAYAR SEKARANG"
 7. Status di aplikasi desktop akan otomatis berubah
 
-============================================================
 CATATAN:
-============================================================
+------------
 - Port server QR: 8765
 - Pastikan port 8765 tidak diblokir firewall
 - Aplikasi menggunakan Java 22 (sesuai pom.xml)

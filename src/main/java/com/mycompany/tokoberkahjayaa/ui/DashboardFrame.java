@@ -159,13 +159,12 @@ public class DashboardFrame extends JFrame {
 
         btn.addActionListener(action);
         panel.add(btn);
-        menuButtons.put(key, btn); // Simpan referensi ke map
+        menuButtons.put(key, btn);
     }
 
     private void showPanel(String name) {
         cardLayout.show(contentPanel, name);
-        
-        // Reset warna tombol sebelumnya jika ada
+
         if (activeButton != null) {
             activeButton.setBackground(PRIMARY);
             activeButton.setForeground(TEXT_INACTIVE);

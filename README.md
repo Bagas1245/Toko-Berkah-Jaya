@@ -1,4 +1,4 @@
-# Toko-Berkah-Jaya
+# Toko-Berkah-Jaya Prmrograman 2
 #Desktop App with NetBeans IDE
 
 APLIKASI TOKO BERKAH JAYA

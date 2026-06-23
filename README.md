@@ -1,6 +1,8 @@
 # Toko-Berkah-Jaya Prmrograman 2
 #Desktop App with NetBeans IDE
 
+#note : no refund
+
 APLIKASI TOKO BERKAH JAYA
 
 DEPENDENCY (otomatis di-download Maven):
